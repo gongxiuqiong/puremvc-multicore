@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<PreLoad>
+		<material name='publicUI' url="atlas/publicUI.json" type="atlas" tip='组件UI界面' />
+		<material name='alertUI' url="atlas/alertUI.json" type="atlas" tip='弹出框模块' />
+	</PreLoad> 
+	<Hall>
+	</Hall> 
+	
+</data>

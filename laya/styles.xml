@@ -1,0 +1,3 @@
+<res>
+   <item name="publicUI/clip_loading.png" type="Clip" compress="0" pack="true" quality="80" props="interval=100 clipX=10 clipY=1 autoPlay=true"/>
+</res>
